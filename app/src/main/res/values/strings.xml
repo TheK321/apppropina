@@ -8,4 +8,8 @@
     <string name="str_pregunta">¿Qué le pareció el servicio?</string>
     <string name="str_cantidad">Propina: %s</string>
     <string name="str_consumo">Costo del consumo</string>
+    <string name="txtresumen">RESUMEN:</string>
+    <string name="txtTotal">Total a pagar: %s</string>
+    <string name="txtPropina">Propina: %s</string>
+    <string name="txtMensaje">Mensaje:</string>
 </resources>
